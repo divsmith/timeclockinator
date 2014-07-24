@@ -1,6 +1,6 @@
 {
 	"name": "divsmith/timeclockinator",
-	"description": "Timeclock implemented in PHP with Laravel.",
+	"description": "Free open source timeclock built with Laravel.",
 	"require": {
 		"laravel/framework": "4.2.*"
 	},
